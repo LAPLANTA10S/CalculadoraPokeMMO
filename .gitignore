@@ -1,0 +1,33 @@
+*.iml
+.gradle
+.idea
+gradle
+<<<<<<< HEAD
+/build
+app/build/
+=======
+<<<<<<< HEAD
+=======
+/build
+app/build/
+>>>>>>> 061a2f5 (v1.0)
+>>>>>>> babb315 (v1.0)
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+/build
+=======
+>>>>>>> 061a2f5 (v1.0)
+>>>>>>> babb315 (v1.0)
+/captures
+.externalNativeBuild
+.cxx
+local.properties

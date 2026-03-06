@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Pantallas">
+        <menu android:checkableBehavior="single">
+            <item
+                android:id="@+id/nav_inicio"
+                android:icon="@drawable/inicio"
+                android:title="Inicio" />
+            <item
+                android:id="@+id/nav_objetos"
+                android:icon="@drawable/objeto"
+                android:title="Objetos" />
+            <item
+                android:id="@+id/nav_balls"
+                android:icon="@drawable/ball"
+                android:title="Balls" />
+            <item
+                android:id="@+id/nav_bayas"
+                android:icon="@drawable/baya"
+                android:title="Bayas" />
+        </menu>
+    </item>
+
+    <item android:title="Opciones">
+        <menu>
+            <item
+                android:id="@+id/nav_delete_all"
+                android:icon="@drawable/salir"
+                android:title="Borrar Todo" />
+        </menu>
+    </item>
+</menu>
